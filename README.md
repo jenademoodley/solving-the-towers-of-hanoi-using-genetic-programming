@@ -1,5 +1,5 @@
 # solving-the-towers-of-hanoi-using-genetic-programming
-Uses a genetic programming model to solve the towers of hanoi problem for diferent ring sizes
+Uses a genetic programming model to solve the towers of hanoi problem for different ring sizes
 
 
 It is recommended that Notepad++ be used to open the created text files.
