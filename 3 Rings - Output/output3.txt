@@ -1,0 +1,24 @@
+Parameters
+===========
+Population Size:		500
+Tree Depth:				3
+Maximum Offspring Size:				9
+Method:					Full Method
+Tournament Size:		25
+Crossover Rate:			60%
+Mutation Rate:			30%
+Reproduction Rate:		10%
+Number of Generations:	100
+
+Seed used: :	250
+Rings: :	3
+
+Success
+Generation of Success: 31
+Tree:		MOVE	LP	MOVE	MOVE	MOVE	RP	MOVE	MOVE	LP	RP	MOVE	RP	MOVE	LP	MP	MOVE	LP	MOVE	RP	LP	MOVE	MP	MOVE	RP	MOVE	MOVE	MP	RP	LP	
+Fitness:	0
+Hit Ratio:	3
+
+Accuracy Rate:	100.0%
+
+Time Taken:	0.254 seconds

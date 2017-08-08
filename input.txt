@@ -1,0 +1,11 @@
+Seed: 512
+Rings: 6
+Population: 500
+Initial Tree Depth: 11
+Maximum Offspring Depth: 20
+Method (1-Grow, 2-Full, 3-Ramped Half and Half): 2
+Tournament Size: 25
+Crossover rate(%): 60
+Mutation rate(%): 30
+Reproduction rate(%): 10
+Maximum Number of Generations: 100
